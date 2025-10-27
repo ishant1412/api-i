@@ -1,0 +1,10 @@
+{"data":{
+ "name":"ishant",
+ "age":20,
+ "proffesion":"student"
+},
+"metadata":{
+   "species":"homosapiens",
+   "planet":"earth",
+   "type":"text"
+}}
